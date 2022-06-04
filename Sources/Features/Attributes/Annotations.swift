@@ -1,6 +1,6 @@
 import Foundation
 
-struct Annotations {
+struct Annotations {.   
     let environmentVariables: [String: String]
     let dependencies: [String: String]
 
